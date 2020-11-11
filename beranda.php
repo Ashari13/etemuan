@@ -84,10 +84,8 @@
 
     <img src="assets/img/gambar/galeri/latar_etemuan.png" class="img-fluid">
 
-      <div class="container">
       <div> 
         <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
-      </div>
       </div>
 
 
